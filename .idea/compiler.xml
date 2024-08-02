@@ -8,7 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="termination" />
         <module name="basics" />
+        <module name="c_optimization" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a_basics" target="11" />
+      <module name="b_termination" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

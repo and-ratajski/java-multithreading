@@ -19,6 +19,8 @@ import java.util.concurrent.Executors;
 /**
  * Optimizing for Throughput Part 2 - HTTP server + Jmeter
  * https://www.udemy.com/java-multithreading-concurrency-performance-optimization
+ *
+ * Go to http://localhost:8000/search?word=caught to look for "caught" word
  */
 public class ThroughputHttpServer {
     private static final String INPUT_FILE = "./resources/war_and_peace.txt";

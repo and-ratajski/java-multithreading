@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="termination" />
+        <module name="d_race_condition" />
         <module name="basics" />
         <module name="c_optimization" />
       </profile>

@@ -12,6 +12,7 @@
         <module>a_basics</module>
         <module>b_termination</module>
         <module>c_optimization</module>
+        <module>d_race_condition</module>
     </modules>
 
     <properties>

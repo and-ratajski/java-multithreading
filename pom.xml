@@ -13,6 +13,7 @@
         <module>b_termination</module>
         <module>c_optimization</module>
         <module>d_race_condition</module>
+        <module>e_advanced_locking</module>
     </modules>
 
     <properties>

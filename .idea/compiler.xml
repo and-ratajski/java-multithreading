@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="a_basics" />
-        <module name="b_termination" />
         <module name="d_race_condition" />
+        <module name="h_io_bound_tasks" />
         <module name="c_optimization" />
+        <module name="i_virtual_threads" />
         <module name="e_advanced_locking" />
+        <module name="f_inter_thread_communication" />
+        <module name="a_basics" />
+        <module name="g_lock_free_operations" />
+        <module name="b_termination" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="a_basics" target="11" />
-      <module name="b_termination" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -14,6 +14,10 @@
         <module>c_optimization</module>
         <module>d_race_condition</module>
         <module>e_advanced_locking</module>
+        <module>f_inter_thread_communication</module>
+        <module>g_lock_free_operations</module>
+        <module>h_io_bound_tasks</module>
+        <module>i_virtual_threads</module>
     </modules>
 
     <properties>
